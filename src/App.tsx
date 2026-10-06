@@ -11,12 +11,12 @@ interface Memory {
 }
 
 const MEMORIES: Memory[] = [
-  { id: 1, url: '/images/i.jpeg', caption: 'payari ❤ anjali' },
-  { id: 2, url: '/images/m.jpeg', caption: 'Anjali, tumhari ek smile hi meri puri duniya hai. ✨' },
-  { id: 3, url: '/images/a.jpeg', caption: 'Bas tum saath rehna, baaki sab sambhal lunga. 💖' },
-  { id: 4, url: '/images/g.jpeg', caption: 'Anjali, tum meri sabse khoobsurat dua ho. 🌸' },
-  { id: 5, url: '/images/e.jpeg', caption: 'Meri duniya ki sabse pyari rounak—Anjali! ❤️' },
-  { id: 6, url: '/images/s.jpeg', caption: 'Happy Birthday to the girl who owns my heart! 👑' },
+  { id: 1, url: '/images/i.jfif', caption: 'payari ❤ sizuka' },
+  { id: 2, url: '/images/m.jfif', caption: 'sizuka, tumhari ek smile hi meri puri duniya hai. ✨' },
+  { id: 3, url: '/images/a.jfif', caption: 'Bas tum saath rehna, baaki sab sambhal lunga. 💖' },
+  { id: 4, url: '/images/g.jfif', caption: 'sizuka, tum meri sabse khoobsurat dua ho. 🌸' },
+  { id: 5, url: '/images/e.jfif', caption: 'Meri duniya ki sabse pyari rounak—sizuka! ❤️' },
+  { id: 6, url: '/images/s.jfif', caption: 'Happy Birthday to the girl who owns my heart! 👑' },
 ];
 
 export default function App() {
@@ -159,7 +159,7 @@ export default function App() {
               </div>
 
               <h1 className="font-display text-3xl md:text-4xl text-pink-800 mb-8 leading-tight">
-                My sweet Anjali's <br />
+                My sweet Sizuka's <br />
                 <span className="italic">Special Day is Almost Here</span> 🥳🥳
               </h1>
 
@@ -182,7 +182,7 @@ export default function App() {
               </div>
 
               <p className="text-pink-700/70 text-sm mb-8 leading-relaxed">
-                A small gift for my dear anjali 🍫🍫❤️🍫🍫
+                A small gift for my dear Sizuka 🍫🍫❤️🍫🍫
               </p>
 
               <div className="flex justify-center gap-2 mb-8">
@@ -276,8 +276,8 @@ export default function App() {
                   Today is the day
                 </div>
                 <h1 className="font-display text-4xl md:text-7xl text-pink-800 mb-6 leading-tight">
-                  Happy Birthday, Anjali! I love you! ❤️, <br />
-                  <span className="italic text-pink-600">My sweet Anjali! 🥳🥳</span>
+                  Happy Birthday, Sizuka! I love you! ❤️, <br />
+                  <span className="italic text-pink-600">My sweet Sizuka! 🥳🥳</span>
                 </h1>
                 <p className="font-serif text-xl text-pink-700/70 max-w-lg mx-auto mb-10 leading-relaxed">
                   Today we celebrate the most incredible person I know. You make every day brighter just by being you.
@@ -359,12 +359,12 @@ export default function App() {
                   </div>
                 </div>
 
-                <h2 className="font-display text-3xl md:text-4xl text-center text-pink-900 mb-10">💕 A Special Message For My sweet Anjali 💕</h2>
+                <h2 className="font-display text-3xl md:text-4xl text-center text-pink-900 mb-10">💕 A Special Message For My sweet Sizuka 💕</h2>
                 
                 <div className="font-serif text-lg md:text-xl text-pink-800/80 leading-relaxed space-y-6 text-center">
                   <p>
                     Log kehte hain ki har kisi ki kismat mein ek farishta hota hai...
-                    Mujhe lagta hai meri kismat ka farishta tum ho Anjali ✨
+                    Mujhe lagta hai meri kismat ka farishta tum ho Sizuka ✨
                   </p>
                   <p>
                     Tumhari hasi mein wo jaadu hai jo mere bure se bure din ko haseen bana de  
@@ -375,7 +375,7 @@ export default function App() {
                     Par waada hai... un kaanton pe hum hamesha saath chalenge. ❤️.
                   </p>
                   <p className="pt-6 font-bold text-pink-600 text-2xl italic">
-                    Happy Birthday, Anjali! I love you more than words can say.
+                    Happy Birthday, Sizuka! I love you more than words can say.
                   </p>
                 </div>
               </div>
