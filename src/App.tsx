@@ -11,12 +11,12 @@ interface Memory {
 }
 
 const MEMORIES: Memory[] = [
-  { id: 1, url: '/images/i.jfif', caption: 'payari ❤ sizuka' },
-  { id: 2, url: '/images/m.jfif', caption: 'sizuka, tumhari ek smile hi meri puri duniya hai. ✨' },
-  { id: 3, url: '/images/a.jfif', caption: 'Bas tum saath rehna, baaki sab sambhal lunga. 💖' },
-  { id: 4, url: '/images/g.jfif', caption: 'sizuka, tum meri sabse khoobsurat dua ho. 🌸' },
-  { id: 5, url: '/images/e.jfif', caption: 'Meri duniya ki sabse pyari rounak—sizuka! ❤️' },
-  { id: 6, url: '/images/s.jfif', caption: 'Happy Birthday to the girl who owns my heart! 👑' },
+  { id: 1, url: '/images/i.jpeg', caption: 'payari ❤ sizuka' },
+  { id: 2, url: '/images/m.jpeg', caption: 'sizuka, tumhari ek smile hi meri puri duniya hai. ✨' },
+  { id: 3, url: '/images/a.jpeg', caption: 'Bas tum saath rehna, baaki sab sambhal lunga. 💖' },
+  { id: 4, url: '/images/g.jpeg', caption: 'sizuka, tum meri sabse khoobsurat dua ho. 🌸' },
+  { id: 5, url: '/images/e.jpeg', caption: 'Meri duniya ki sabse pyari rounak—sizuka! ❤️' },
+  { id: 6, url: '/images/s.jpeg', caption: 'Happy Birthday to the girl who owns my heart! 👑' },
 ];
 
 export default function App() {
