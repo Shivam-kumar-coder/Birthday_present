@@ -1,20 +1,62 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🎂 Birthday Wishes Website
 
-# Run and deploy your AI Studio app
+A beautiful and interactive birthday wishes website created to make someone's
+special day more memorable.
 
-This contains everything you need to run your app locally.
+The website can be personalized for anyone by changing the name, birthday
+message, photos, memories, and other content. It is designed to provide a
+simple, fun, and memorable digital birthday experience.
 
-View your app in AI Studio: https://ai.studio/apps/f8a2b47e-2483-46cf-82ff-fc74213aeb0f
+## ✨ Features
 
-## Run Locally
+- 🎂 Personalized birthday wishes
+- 💝 Add a custom name and birthday message
+- 🖼️ Add personal photos and memories
+- 🎉 Birthday-themed animations and visual effects
+- ✨ Interactive elements for a more engaging experience
+- 💌 Create a personal birthday message
+- 📱 Fully responsive design
+- 💻 Works on desktop, laptop, tablet, and mobile
+- 🎨 Clean and attractive user interface
+- ⚡ Fast and lightweight experience
+- 🌐 Easy to share with friends and family
+- 🔄 Easily reusable for different people and occasions
 
-**Prerequisites:**  Node.js
+## 🎯 About The Project
 
+This project is a reusable birthday greeting website designed for anyone who
+wants to create a personalized digital birthday surprise.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Instead of sending a simple text message, the website provides an interactive
+experience where you can add a person's name, wishes, photos, memories, and
+other personal content.
+
+The project can be customized for:
+
+- 👨 Friends
+- 👩 Family members
+- ❤️ Partners
+- 🎓 Classmates
+- 🧑‍💼 Colleagues
+- 👧 Children
+- 🎁 Anyone celebrating a birthday
+
+## 🛠️ Built With
+
+- HTML
+- CSS
+- JavaScript
+- Modern web development techniques
+
+## 📋 Prerequisites
+
+Before running the project locally, make sure you have:
+
+- Node.js installed
+- npm installed
+
+Check your installation:
+
+```bash
+node --version
+npm --version
